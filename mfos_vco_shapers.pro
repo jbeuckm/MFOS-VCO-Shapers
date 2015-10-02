@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/joebeuckman/Dropbox/CAM/eurorack/MFOS_VCO_Shapers/mfos_vco_shapers.brd
 
-Start at      : 20:16:20 (9/24/15)
-End at        : 20:17:18 (9/24/15)
-Elapsed time  : 00:00:57
+Start at      : 23:09:53 (9/25/15)
+End at        : 23:12:56 (9/25/15)
+Elapsed time  : 00:03:01
 
-Signals       :    31   RoutingGrid: 21 mil  Layers: 1
-Connections   :    92   predefined:  0 ( 0 Vias )
+Signals       :    31   RoutingGrid: 25 mil  Layers: 1
+Connections   :    93   predefined:  17 ( 0 Vias )
 
-Router memory :   69030
+Router memory :   50160
 
-Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4 Optimize5 Optimize6 Optimize7 Optimize8 Optimize9Optimize10Optimize11Optimize12
+Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:13  00:00:38  00:00:01  00:00:00  00:00:01  00:00:00  00:00:01  00:00:00  00:00:00  00:00:01  00:00:00  00:00:01  00:00:00  00:00:01
-Number of Ripups  :         0       344         0         0         0         0         0         0         0         0         0         0         0         0
-max. Level        :         0         5         0         0         0         0         0         0         0         0         0         0         0         0
-max. Total        :         0        24         0         0         0         0         0         0         0         0         0         0         0         0
+Time per pass     :  00:00:00  00:02:58  00:00:01  00:00:00  00:00:01  00:00:01
+Number of Ripups  :         0       991         0         0         0         0
+max. Level        :         0         8         0         0         0         0
+max. Total        :         0        21         0         0         0         0
 
-Routed            :        48        74        72        71        71        71        71        71        71        71        71        71        71        71
-Vias              :         0         0         0         0         0         0         0         0         0         0         0         0         0         0
-Resolution        :    52.2 %    80.4 %    78.3 %    77.2 %    77.2 %    77.2 %    77.2 %    77.2 %    77.2 %    77.2 %    77.2 %    77.2 %    77.2 %    77.2 %
+Routed            :        13        62        63        63        63        63
+Vias              :         0         0         0         0         0         0
+Resolution        :    32.3 %    84.9 %    86.0 %    86.0 %    86.0 %    86.0 %
 
-Final             : 77.2% finished
+Final             : 86.0% finished
